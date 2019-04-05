@@ -1,15 +1,20 @@
 {
-  "name": "parcel-sandbox",
+  "name": "javascriptgame",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
-  "main": "index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "@babel/core": "7.2.0",
-    "parcel-bundler": "^1.6.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swap76/JavascriptGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swap76/JavascriptGame/issues"
+  },
+  "homepage": "https://github.com/Swap76/JavascriptGame#readme"
 }
